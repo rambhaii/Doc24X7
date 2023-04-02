@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.f0ris.sweetalert:library:1.5.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/gradle-1.12/caches/transforms-2/files-2.1/ebbd3bafdb44732602907dfd3b002bc5/jetified-library-1.5.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/gradle-1.12/caches/transforms-2/files-2.1/ebbd3bafdb44732602907dfd3b002bc5/jetified-library-1.5.3/res" />
+      <root url="file://$USER_HOME$/Downloads/gradle-1.12/caches/transforms-2/files-2.1/ebbd3bafdb44732602907dfd3b002bc5/jetified-library-1.5.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/gradle-1.12/caches/modules-2/files-2.1/com.github.f0ris.sweetalert/library/1.5.3/bec440ea7499ddf358e91d30aabcd97cbca1667f/library-1.5.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/gradle-1.12/caches/modules-2/files-2.1/com.github.f0ris.sweetalert/library/1.5.3/940d13f427a95ad939abf7c071b6f4e76adebc59/library-1.5.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

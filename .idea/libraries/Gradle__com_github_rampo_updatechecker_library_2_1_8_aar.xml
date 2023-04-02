@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.rampo.updatechecker:library:2.1.8@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/gradle-1.12/caches/transforms-2/files-2.1/0591a4309b10dfc579afd00b6908819b/jetified-library-2.1.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/gradle-1.12/caches/transforms-2/files-2.1/0591a4309b10dfc579afd00b6908819b/jetified-library-2.1.8/res" />
+      <root url="file://$USER_HOME$/Downloads/gradle-1.12/caches/transforms-2/files-2.1/0591a4309b10dfc579afd00b6908819b/jetified-library-2.1.8/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/gradle-1.12/caches/modules-2/files-2.1/com.github.rampo.updatechecker/library/2.1.8/f56d946a70dd55fa4adb2c131dbd6db4ead0fae3/library-2.1.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/gradle-1.12/caches/modules-2/files-2.1/com.github.rampo.updatechecker/library/2.1.8/c30b35b1b97abfe6ae81f3c2de9d41afcc006161/library-2.1.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

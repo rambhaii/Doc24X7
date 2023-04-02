@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-tasks:11.4.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/gradle-1.12/caches/transforms-2/files-2.1/521f3555dd3dd81bd0833b9fbe1ee825/jetified-play-services-tasks-11.4.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/gradle-1.12/caches/transforms-2/files-2.1/521f3555dd3dd81bd0833b9fbe1ee825/jetified-play-services-tasks-11.4.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

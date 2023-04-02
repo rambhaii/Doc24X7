@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.mindinventory:minavdrawer:1.1.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/gradle-1.12/caches/transforms-2/files-2.1/89e867da5abeb194feaea56672addd2f/jetified-minavdrawer-1.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/gradle-1.12/caches/transforms-2/files-2.1/89e867da5abeb194feaea56672addd2f/jetified-minavdrawer-1.1.1/res" />
+      <root url="file://$USER_HOME$/Downloads/gradle-1.12/caches/transforms-2/files-2.1/89e867da5abeb194feaea56672addd2f/jetified-minavdrawer-1.1.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/gradle-1.12/caches/modules-2/files-2.1/com.github.mindinventory/minavdrawer/1.1.1/7f455eb5aff4ba3d7e1aef88569122e9787d9550/minavdrawer-1.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/gradle-1.12/caches/modules-2/files-2.1/com.github.mindinventory/minavdrawer/1.1.1/6be5221493697c25c7f9a2d7a4575f4115cfe08e/minavdrawer-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
